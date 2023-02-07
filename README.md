@@ -46,7 +46,7 @@ I was entirely ufamiliar with the Swift environment so this entire project was a
 
 ## License
 
-    Copyright [Zacharias Lafond] [name of copyright owner]
+    Copyright [Zacharias Lafond]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
